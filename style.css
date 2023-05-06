@@ -15,25 +15,25 @@ body{
 
 .quadro{
     background-color: hsl(0, 0%, 100%);
-    padding: 20px;
-    border-radius: 20px;
+    padding: 12px;
+    border-radius: 18px;
     text-align: center;
-    margin: 1rem;
+    margin: 0 1rem;
 }
 
 .quadro img{
     width: 100%;
-    border-radius: 10px;
+    border-radius: 12px;
 }
 
 .texto{
-    padding: 22px 10px;
+    padding: 20px 10px;
 }
 
 h2{
     color: hsl(218, 44%, 22%);
     font-weight: 700;
-    padding-bottom: 15px;
+    padding-bottom: 18px;
 }
 
 p{
