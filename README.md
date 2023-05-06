@@ -4,7 +4,7 @@ Projeto que continha a finalidade de centralizar um container com o QR code do F
 <br><br>
 
 <img src="./src/images/resultado-final.png" alt="Imagem do projeto finalizado">
-<br><br>
+<br>
 
 ## Tecnologias utilizadas
 <ul>
